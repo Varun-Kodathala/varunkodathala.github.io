@@ -1,0 +1,31 @@
+#head1{
+  text-align: center;
+  margin-top: 2%;
+  font-family: 'Alegreya', serif;
+  color: black;
+
+}
+body{
+  /* background-image: url("awardsbag_img.jpg"); */
+  background-repeat: no-repeat,repeat;
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+}
+.container{
+  margin-top: 5%;
+  font-style: oblique;
+}
+/* #text{
+  color: black;
+} */
+.table.table-bordered{
+    border:1px solid blue;
+    margin-top:40px;
+  }
+.table.table-bordered > thead > tr > th{
+    border:1px solid black;
+}
+.table.table-bordered > tbody > tr > td{
+    border:1px solid black;
+}

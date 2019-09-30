@@ -1,0 +1,12 @@
+#head{
+  font-family: 'Source Serif Pro', serif;
+  text-align: center;
+  margin-top: 2%;
+  border-style: solid;
+}
+#bod{
+  border-style: solid;
+padding-left: 2%;
+padding-top: 2%;
+padding-bottom: 2%;
+}

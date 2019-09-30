@@ -1,0 +1,15 @@
+#one {
+  outline: none;
+margin: 0;
+width: 216mm;
+height: 900mm;
+
+}
+#two{
+  text-align: center;
+}
+body{
+  /* margin-top: 5%; */
+  text-align: center;
+  background-color:  white;
+}
